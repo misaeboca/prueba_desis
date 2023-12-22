@@ -1,0 +1,9 @@
+1.- Clone el contenido del repositorio 
+    git clone https://github.com/misaeboca/prueba_desis.git
+
+dentro de su carpeta www de su servidor web
+
+2.- En su manejador de base de datos corra el script que esta dentro del directorio
+sql/tablas.sql para crear la base de datos y registros necesarios
+
+3.- Inicie su servidor web y acceda a localhost/prueba_desis/
